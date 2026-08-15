@@ -96,3 +96,15 @@ Views/                one UserControl + tab set per category
 
 For your own systems, bots, and servers, or with explicit authorization. Not
 a substitute for actual authorization to test something you don't own.
+
+*Join the discord here:*
+```
+https://discord.gg/9g3VtekQ5y
+```
+*Any questions or concerns dm:*
+```
+fzb3 on discord
+```
+or
+```
+x5ud on discord
